@@ -7,8 +7,8 @@ https://www.dfrobot.com/product-1075.html?tracking=IxcGjYvhlD7rPBQdORDufaZKAdHm4
 Required are:
 
 - beetle/arduino
-- 2.2K resistor
-- 10K resistor
+- 2K resistor
+- 20K resistor
 
 The aim is to simply set the voltage divider to output onto the analog port - result is a nice low voltage for arduino to read and return the data.
 
