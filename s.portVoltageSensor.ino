@@ -26,7 +26,7 @@ float sensorValue;
 
 void setup() {
   hub.registerSensor(sensor);       //Add sensor to the hub
-  analogReference(INTERNAL);
+  //analogReference(INTERNAL);
   hub.begin();                      //Start listening
 }
 
